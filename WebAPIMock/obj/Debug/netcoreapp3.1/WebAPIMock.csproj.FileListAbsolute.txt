@@ -1,0 +1,12 @@
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\bin\Debug\netcoreapp3.1\WebAPIMock.deps.json
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\bin\Debug\netcoreapp3.1\WebAPIMock.dll
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\bin\Debug\netcoreapp3.1\WebAPIMock.pdb
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\obj\Debug\netcoreapp3.1\WebAPIMock.csproj.AssemblyReference.cache
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\obj\Debug\netcoreapp3.1\WebAPIMock.AssemblyInfoInputs.cache
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\obj\Debug\netcoreapp3.1\WebAPIMock.AssemblyInfo.cs
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\obj\Debug\netcoreapp3.1\WebAPIMock.csproj.CoreCompileInputs.cache
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\obj\Debug\netcoreapp3.1\WebAPIMock.csproj.CopyComplete
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\obj\Debug\netcoreapp3.1\WebAPIMock.dll
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIMock\obj\Debug\netcoreapp3.1\WebAPIMock.pdb

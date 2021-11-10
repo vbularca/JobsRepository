@@ -1,0 +1,14 @@
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\bin\Debug\netcoreapp3.1\WebAPIWrapper.deps.json
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\bin\Debug\netcoreapp3.1\WebAPIWrapper.dll
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\bin\Debug\netcoreapp3.1\WebAPIWrapper.pdb
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\bin\Debug\netcoreapp3.1\WebAPIMock.dll
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\bin\Debug\netcoreapp3.1\WebAPIMock.pdb
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\obj\Debug\netcoreapp3.1\WebAPIWrapper.csproj.AssemblyReference.cache
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\obj\Debug\netcoreapp3.1\WebAPIWrapper.AssemblyInfoInputs.cache
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\obj\Debug\netcoreapp3.1\WebAPIWrapper.AssemblyInfo.cs
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\obj\Debug\netcoreapp3.1\WebAPIWrapper.csproj.CoreCompileInputs.cache
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\obj\Debug\netcoreapp3.1\WebAPIWrapper.csproj.CopyComplete
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\obj\Debug\netcoreapp3.1\WebAPIWrapper.dll
+C:\Users\vasile.bularca\Desktop\TestBT\WebAPIWrapper\obj\Debug\netcoreapp3.1\WebAPIWrapper.pdb
