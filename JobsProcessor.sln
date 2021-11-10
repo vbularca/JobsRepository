@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobsProcessor", "JobsProcessor\JobsProcessor.csproj", "{3B3D01E0-B0DF-428A-8B58-3250C783656C}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contracts", "Contracts\Contracts.csproj", "{608EA439-72AD-42BB-9F5F-659E1E9DEDB4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIMock", "WebAPIMock\WebAPIMock.csproj", "{F3441E2F-D35F-4A40-8534-932395EEEB07}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIWrapper", "WebAPIWrapper\WebAPIWrapper.csproj", "{4797B897-A085-45B3-95F2-30D18055CC99}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobsProcessor", "JobsProcessor\JobsProcessor.csproj", "{3B3D01E0-B0DF-428A-8B58-3250C783656C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
